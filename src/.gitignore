@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+.firebase/
+.firebaserc
+firebase-debug.log
+.env
+
+# Compiled output
+dist/
+build/
+
+# Local environment settings
+*.local
+*.env
